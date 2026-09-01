@@ -1,2 +1,2 @@
 # Calculator
-It is make for small calculation.
+This Calculator create for small calculation.
